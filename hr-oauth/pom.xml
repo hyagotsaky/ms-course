@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>hr-user</artifactId>
+	<artifactId>hr-oauth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hr-user</name>
 	<description>User Microservice</description>
